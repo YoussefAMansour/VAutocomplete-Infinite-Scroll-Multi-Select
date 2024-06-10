@@ -19,7 +19,7 @@ To integrate this component into your project, follow these steps:
    git clone https://github.com/YoussefAMansour/VAutocomplete-Infinite-Scroll-Multi-Select
 2. **Navigate to the project directory**:
     ```sh
-   cd v-autocomplete-multi-select
+   cd VAutocomplete-Infinite-Scroll
 
 3.  **Install dependencies**:
     ```sh
