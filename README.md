@@ -1,6 +1,6 @@
 # VAutocomplete Infinite Scroll Component
 
-This repository provides a Vue 3 component using Vuetify 3 that enhances the VAutocomplete functionality to allow for multiple user selection. It enables users to search for and select multiple items from a dynamically loaded list, with selected items displayed as VChips for easy management.
+This repository provides a Vue 3 component using Vuetify 3 that enhances the VAutocomplete functionality to allow for multiple user selections. It enables users to search for and select multiple items from a dynamically loaded list, with selected items displayed as VChips for easy management.
 
 ## Features
 
@@ -35,7 +35,7 @@ Here's an example of how to use the VAutocomplete Multi-Select component in your
 1. ```shell
     <template>
         <div>
-        <VAutocompleteMultiSelect  />
+        <VAutocompleteMultiSelect/>
       </div>
     </template>
 
@@ -53,7 +53,7 @@ Props:
 * item-value: Property name to use as the value.
 * label: Label for the autocomplete input.
 * search-input.sync: Two-way binding for the search input.
-* multiple: Boolean to enable multi-select functionality.
+* Multiple: Boolean to enable multi-select functionality.
 * clearable: Boolean to enable clearing the selection.
 * autocomplete: Attribute to disable browser autocomplete.
 
