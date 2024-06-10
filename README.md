@@ -16,7 +16,7 @@ To integrate this component into your project, follow these steps:
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/your-username/v-autocomplete-multi-select.git
+   git clone https://github.com/YoussefAMansour/v-autocomplete-multi-select.git
 2. **Navigate to the project directory**:
     ```sh
    cd v-autocomplete-multi-select
