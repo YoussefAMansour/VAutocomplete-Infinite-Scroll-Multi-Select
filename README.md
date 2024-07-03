@@ -1,3 +1,10 @@
+<p align="center">
+ <a href="https://vuetifyjs.com" target="_blank">
+  <img alt="Vuetify Logo" width="100" src="https://cdn.vuetifyjs.com/images/logos/logo.svg">
+ </a>
+</p>
+
+
 # VAutocomplete Infinite Scroll Component
 
 This repository provides a Vue 3 component using Vuetify 3 that enhances the VAutocomplete functionality to allow for multiple user selections. It enables users to search for and select multiple items from a dynamically loaded list, with selected items displayed as VChips for easy management.
